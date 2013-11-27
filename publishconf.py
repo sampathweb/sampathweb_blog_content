@@ -18,4 +18,4 @@ CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 DELETE_OUTPUT_DIRECTORY = True
 
 GOOGLE_ANALYTICS = 'UA-35953508-1'
-DISQUS_SITENAME = 'sampathwebcom'
+DISQUS_SITENAME = 'sampathweb'
