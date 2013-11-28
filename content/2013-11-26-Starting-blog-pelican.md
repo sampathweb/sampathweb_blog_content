@@ -1,7 +1,7 @@
 Title: Starting a Blog with Pelican
-date: 2013-11-26 18:50
-comments: true
-slug: Starting a Blog with Pelican
+Date: 2013-11-26 18:50
+Comments: true
+Slug: Starting a Blog with Pelican
 
 <!-- PELICAN_BEGIN_SUMMARY -->
 I have been wanting to start a blog for a while, but kept giving excuses.  When I saw that Hacker School applications are now open, I needed a blog to show that I can do a program or two.  After searching for a blogging platform, I decided on Pelican hosted on github pages.  I can use Python and IPython notebook for blogging too and that might just be what I need to write some code.

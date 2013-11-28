@@ -68,6 +68,9 @@ FEED_ATOM = 'atom.xml'
 # Search
 SEARCH_BOX = True
 
+GOOGLE_ANALYTICS = 'UA-35953508-1'
+DISQUS_SITENAME = 'sampathweb'
+
 # STATIC_OUT_DIR requires https://github.com/jakevdp/pelican/tree/specify-static
 #STATIC_OUT_DIR = ''
 #STATIC_PATHS = ['images', 'figures', 'downloads']
