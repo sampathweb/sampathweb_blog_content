@@ -1,7 +1,7 @@
 Title: Euler Project - Problem 1
 Date: 2013-11-21 07:00
 Comments: true
-Slug: Find sum of all numbers under 1000 that are multiples of 3 or 5
+Slug: euler-project-problem1
 
 <!-- PELICAN_BEGIN_SUMMARY -->
 Euler Project is a great resource to solve some puzzles writing code and explore areas of the language that we don't normally explore.  It's like playing chess, but we get to write the code to solve it.

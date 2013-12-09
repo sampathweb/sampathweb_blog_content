@@ -1,7 +1,7 @@
 Title: Game - Tic-Tac-Toe
 Date: 2013-12-01 07:00
 Comments: true
-Slug: Fun with Games
+Slug: tic-tac-toe
 
 <!-- PELICAN_BEGIN_SUMMARY -->
 Hacker School application is done.  I am glad they suggested to submit a game of Tic-Tac-Toe and not some implementation of fourier transformation.  That would be Rocket Science to me.  I had fun playing around with various data structures to make the game.  It's not perfect and doesn't make the best choice possible, but it allows my son to win the game and be happy that he beat daddy's program.

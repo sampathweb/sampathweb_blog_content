@@ -1,7 +1,7 @@
 Title: Why Hacker School?
 Date: 2013-11-28 07:00
 Comments: true
-Slug: Why am I applying and you should too.
+Slug: why-hacker-school
 Status: draft
 
 <!-- PELICAN_BEGIN_SUMMARY -->

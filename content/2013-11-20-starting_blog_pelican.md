@@ -1,7 +1,7 @@
 Title: Starting a Blog with Pelican
 Date: 2013-11-20 18:50
 Comments: true
-Slug: Starting a Blog with Pelican
+Slug: Starting-a-Blog
 
 <!-- PELICAN_BEGIN_SUMMARY -->
 I have been wanting to start a blog for a while, but kept giving excuses.  Now it's finally time to catch up on my New Year resolution before the year is done.  After searching for a blogging platform, I decided on Pelican hosted on github pages.  I can use Python and IPython notebook for blogging too and that might just be what I need to write some code.
