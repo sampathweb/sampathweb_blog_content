@@ -29,9 +29,10 @@ ARTICLE_URL = 'blog/{date:%Y}/{date:%m}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = 'blog/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 
 # Title menu options
-MENUITEMS = [('Archives', '/archives.html'),
-             ('Home Page', 'http://www.sampathweb.com'),
-             ('About Me', '/about-me.html')]
+MENUITEMS = [
+             ('Blog', 'http://www.sampathweb.com'),
+             ('Archives', '/archives.html')
+             ]
 NEWEST_FIRST_ARCHIVES = False
 
 #Github include settings
